@@ -1,7 +1,7 @@
 Summary:    A GNU tool for automatically configuring source code
 Name:       autoconf
 Version:    2.69
-Release:    12.2.kng%{?dist}
+Release:    12.2.kkr%{?dist}
 License:    GPLv2+ and GFDL
 Group:      Development/Tools
 Source0:    http://ftpmirror.gnu.org/autoconf/autoconf-%{version}.tar.gz
